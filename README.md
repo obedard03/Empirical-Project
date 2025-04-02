@@ -12,3 +12,4 @@ Install the following Python packages (ideally in a virtual environment):
 pip install pandas matplotlib seaborn nltk
 
 
+note versions of python being used...
